@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasurkurbanov
-- 👀 I’m interested in leading a team and mentoring junior developers
+- 👀 I’m interested in leading a team
 - 📫 How to reach me jasurkurbanov96@gmail.com
 
 <!---
